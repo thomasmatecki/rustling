@@ -6,36 +6,9 @@
 mod tests {
     #[test]
     fn you_can_assert_eq() {
-        assert_eq!();
+        assert_eq!(true, true);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // Like the previous exercise, you don't need to write any code to get this test to compile and
